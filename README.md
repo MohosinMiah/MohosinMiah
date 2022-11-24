@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, I'm MD MOHOSIN MIAH
+### Hi there, I'm MD MOHOSIN MIAH 👋
 #### I'm a Software Engineer and Competitive Programmer
 Technology I use in my day-to-day work:
 - 🌱 Language: Python, PHP, Java, JavaScript
