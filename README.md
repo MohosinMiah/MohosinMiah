@@ -7,7 +7,7 @@ Technology I use in my day-to-day work:
 - 🌱 Database: MySQL, MongoDB, PostgreSQL, SQLite
 - 🌱 Tools: Docker, Git, GitHub,
 
-Skills: Java/ PHP / Laravel/ Spring Boot/ Codignator / Django/ Express/ JavaScript /Bootstrap / HTML / CSS 
+Skills: Java/ PHP / Laravel/ Spring Boot/ Codignator/ Express/ JavaScript /Bootstrap / HTML / CSS 
 
 - 🔭 I’m currently working as a  Software Engineer 
 - 🌱 I’m currently learning Spring Boot | AWS  
