@@ -2,7 +2,7 @@
 #### I'm a Software Engineer and Competitive Programmer
 Technology I use in my day-to-day work:
 - 🌱 Language:  Java, PHP, JavaScript
-- 🌱 Server-side: Laravel, Spring Boot, CodeIgniter, Symfony, Express JS
+- 🌱 Server-side: Spring Boot, Laravel, CodeIgniter, Symfony, Express JS
 - 🌱 Client-side: ReactJs, jQuery, Bootstrap, Material Design
 - 🌱 Database: MySQL, MongoDB, PostgreSQL, SQLite
 - 🌱 Tools: Docker, Git, GitHub,
