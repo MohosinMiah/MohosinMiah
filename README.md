@@ -3,9 +3,9 @@
 Technology I use in my day-to-day work:
 - 🌱 Language:  Java, PHP, JavaScript
 - 🌱 Server-side: Spring Boot, Laravel, CodeIgniter, Symfony, Express JS
-- 🌱 Client-side: ReactJs, jQuery, Bootstrap, Material Design
+- 🌱 Client-side: ReactJs, jQuery, Bootstrap, HTML, CSS, BootStrap, Material Design
 - 🌱 Database: MySQL, MongoDB, PostgreSQL, SQLite
-- 🌱 Tools: Docker, Git,
+- 🌱 Tools: AWS, Docker, Git
 
 Skills: Java/ PHP / Laravel/ Spring Boot/ Codignator/ Express/ JavaScript /Bootstrap / HTML / CSS 
 
